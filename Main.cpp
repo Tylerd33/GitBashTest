@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main() {
-	std::cout << "BigMan" << std::endl;
+	std::cout << "BigMan LittleMan" << std::endl;
 }
